@@ -1,1 +1,3 @@
 Some napis, dodaje coœ nowego na master
+Tutaj tekst na addnew 1
+Dodaje kolejnego potomka
