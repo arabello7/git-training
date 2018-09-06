@@ -1,1 +1,2 @@
 Tutaj tekst na addnew 1
+Dodaje kolejnego potomka
